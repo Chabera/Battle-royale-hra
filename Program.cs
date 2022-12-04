@@ -1,4 +1,10 @@
-﻿using ConsoleApp2;
+﻿/* Udělal jsem to trochu podle sebe, protože jsem nedokázal udělat více.
+ * Aktuálně je to hodně jednoduchá hra, ale i tak jsem na tom strávil opravdu mnoho času.*/
+
+
+
+
+using ConsoleApp2;
 
 
 Bojovnik Jakub = new Bojovnik("Jakub");
